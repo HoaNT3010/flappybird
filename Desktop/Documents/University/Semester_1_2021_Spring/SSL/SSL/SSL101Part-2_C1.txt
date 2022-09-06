@@ -1,0 +1,90 @@
+1.Question 1
+Which record is an article on positive topological entropy in the journal Annals of Mathematics part of?
+
+(Refer to 2.1a)
+
+- Scholarly record
+
+2.Question 2
+Is a first year visual art textbook called Introduction to Art History an example of a primary source, secondary source, or tertiary source?
+
+(Refer to 2.1b)
+
+- Tertiary source
+
+3.Question 3
+In which part of an academic journal article would you encounter the findings or outcomes of the research that was conducted?
+
+(Refer to 2.2b)
+
+- Results
+
+4.Question 4
+Which of these options is the usual structure of a humanities journal article?
+
+(Refer to 2.2b)
+
+- Abstract, Introduction, Body, Conclusion, References
+
+5.Question 5
+You are an undergraduate pharmacology student researching approaches to protein therapeutics over the last 20 years. Where would you begin your search?
+
+(Refer to 2.4)
+
+- Google Scholar
+
+- An academic journal database called Web of Science which gives broad coverage to journal articles in the sciences.
+
+6.Question 6
+What is the most important thing that determines where you look for information sources, according to Pat Norman in lesson 2.3?
+
+(Refer to 2.3)
+
+- What you are looking for
+
+7.Question 7
+Why do academic journal articles, rather than textbooks or course notes, allow you to enter into the academic conversations of your field?
+
+(Refer to 2.2a)
+
+- Because they are written by academics, for other academics.
+
+
+- Because they provide more detailed and specific information on a field.
+
+
+8.Question 8
+Consider the following assessment question.
+
+“It is important to remember that educational software, like textbooks, is only one tool in the learning process. Neither can be a substitute for well-trained teachers, leadership, and parental involvement” (Keith Krueger). How important is educational technology?
+
+The first step in developing a search strategy is to break the question down into sub-topics. Choose the best set of sub-topics for this question.
+
+- Textbooks, educational technology, educational leadership, teacher training, parental involvement with education.
+
+9.Question 9
+Consider the following assessment question.
+
+“It is important to remember that educational software, like textbooks, is only one tool in the learning process. Neither can be a substitute for well-trained teachers, leadership, and parental involvement” (Keith Krueger). How important is educational technology?
+
+A student has run the following search term while researching the question:
+
+“ “educational technology” AND teacher training NOT parent”
+
+It has returned very few results. Choose the best reason why below.
+
+- The search is too narrow because using AND and NOT as search terms narrows the search
+
+10.Question 10
+Consider the following assessment question.
+
+“It is important to remember that educational software, like textbooks, is only one tool in the learning process. Neither can be a substitute for well-trained teachers, leadership, and parental involvement” (Keith Krueger). How important is educational technology?
+
+A student wants to research the importance of technology in curriculum change. What would be the best combination of search terms below?
+
+- technology AND “curriculum change"
+
+
+
+
+
