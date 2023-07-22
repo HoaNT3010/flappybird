@@ -1,3 +1,0 @@
-Total employee: 3
-Employees who have maximum salary level:
-Employee 3______ID: A003________________Name: Hoa

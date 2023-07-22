@@ -1,7 +1,0 @@
-
-Square numbers in the array: 
--Element index: 3
-The most frequent element is: 11
-The amount of odd number is: 1
-The amount of even number is: 3
-The list after sorting: 11 14 30 64 

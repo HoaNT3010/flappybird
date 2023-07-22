@@ -1,9 +1,0 @@
-1. Tìm kiếm:
-	Input: a,n,x
-	Output:-x có thể trong a không, xuất vị trí đầu tiên
-		-Xuất ra tất cả các vị trí = x
-2. Sắp xếp
-3. Thêm phần tử
-4. Xóa phần tử	
-
-pass: fptu123
